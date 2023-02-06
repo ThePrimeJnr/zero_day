@@ -1,0 +1,1 @@
+This is my first day as a software engineer, and this is my zero_day directory
